@@ -21,7 +21,7 @@
   },
   {
    "fieldname": "max_articles",
-   "fieldtype": "Data",
+   "fieldtype": "Int",
    "label": "Maximum Number of Issued Articles"
   }
  ],
@@ -29,7 +29,7 @@
  "index_web_pages_for_search": 1,
  "issingle": 1,
  "links": [],
- "modified": "2025-12-19 21:02:35.845154",
+ "modified": "2025-12-19 21:37:12.410559",
  "modified_by": "Administrator",
  "module": "Library Management",
  "name": "Library Settings",
